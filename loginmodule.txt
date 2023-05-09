@@ -1,0 +1,4 @@
+login details 
+username
+password
+email
